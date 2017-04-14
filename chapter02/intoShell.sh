@@ -1,4 +1,4 @@
-#/bin/bash
+#!/bin/bash
 
 infocmp vt100
 # 将terminfo数据库转换成文本
